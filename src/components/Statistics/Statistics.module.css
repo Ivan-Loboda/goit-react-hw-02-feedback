@@ -1,0 +1,15 @@
+.data {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.total {
+    width:100px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.persentage {
+    width: 250px;
+    font-size: 20px;
+    font-weight: 700;
+}
